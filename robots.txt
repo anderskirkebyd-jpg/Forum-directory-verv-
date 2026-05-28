@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://YOUR-PAGES-URL.pages.dev/sitemap.xml
+Sitemap: https://forum-directory-verv.vercel.app/sitemap.xml
